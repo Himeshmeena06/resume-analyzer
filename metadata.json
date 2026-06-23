@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer",
+  "description": "An AI-powered resume analyzer that evaluates ATS score, strengths, weaknesses, missing skills, improvement suggestions, and provides custom roasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
